@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanishksamurai
-- 👀 I’m interested in programming(python)
-- 🌱 I’m currently learning python
+- 👀 I’m studying B.E Computer Science and Engineering in thiagarajar college of Engineering
+- 🌱 I’m currently learning more about web development and artificial intelligence
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
